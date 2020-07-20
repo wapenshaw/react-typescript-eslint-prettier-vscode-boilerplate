@@ -1,0 +1,17 @@
+{
+	// Recommended extensions to help in react development. Ignore if you have your own set.
+	"recommendations": [
+		"christian-kohler.path-intellisense",
+		"dbaeumer.vscode-eslint",
+		"albert.TabOut",
+		"jasonlhy.hungry-delete",
+		"dsznajder.es7-react-js-snippets",
+		"esbenp.prettier-vscode",
+		"msjsdiag.debugger-for-chrome",
+		"wapenshaw.mowgli",
+		"usernamehw.errorlens",
+		"CoenraadS.bracket-pair-colorizer-2",
+		// "jpoissonnier.vscode-styled-components", // This is the full fledged Styled Components Extenstion with Language Server, known to cause  performance issues sometimes
+		"ro.vscode-styled-components"// Styled compnents synxtax hightlighting without language server, ie Intellisense
+	]
+}
