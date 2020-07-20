@@ -13,7 +13,7 @@ This is geared for VSCode and has all project/extension specific settings includ
 ## 4 Simple Steps
 
 1. Git clone this repo
-`git clone https://github.com/wapenshaw/react-typescript-eslint-prettier-vscode.git`
+`git clone https://github.com/wapenshaw/react-typescript-eslint-prettier-vscode-boilerplate.git myProject`
 
 2. `code .` from inside the project folder or `Open Folder` in VSCode
 
