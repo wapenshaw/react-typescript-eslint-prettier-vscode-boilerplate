@@ -1,3 +1,11 @@
+# The ultimate boilerplate for VSCode maniacs
+
+### Just installed VSCode and want to develop react applications? I got you! DONWLOAD THIS NOW!
+
+### Download, open folder in vscode, install recommended extensions, yarn start and hit F5! You are debugging in vscode instantly!
+
+I should have called it `react-typescript-eslint-prettier-errorlens-es7snippets-chromedebug-vscode-styledcomponents-boilerplate` but couldn't, thats ok, thanks github!
+
 This is a Create React App ejected and version bumped to @latest as on 21-Jul, CRA was still on ESLint 6.x. Big Mad!
 
 This is geared for VSCode and has all project/extension specific settings included, such as
@@ -8,6 +16,8 @@ This is geared for VSCode and has all project/extension specific settings includ
 4. An `.env` file which tells the script to not open the link in default browser ~(>_<。)
 5. Launch configuration for VSCode, Install Chrome debugger extension and hit `F5` to start debugging immediately. If you have the [Browser Preview Extension](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) you can use that with F5 as well.
 6. Extension specific settings already added in `settings.json`.
+
+
 
 ## 4 Simple Steps
 
