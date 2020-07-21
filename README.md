@@ -1,4 +1,4 @@
-This is a Create React App ejected and version bumped to @latest as on 21-Jul, CRA was still on ESLint 6.x so (っ °Д °;)っ
+This is a Create React App ejected and version bumped to @latest as on 21-Jul, CRA was still on ESLint 6.x. Big Mad!
 
 This is geared for VSCode and has all project/extension specific settings included, such as
 
@@ -9,19 +9,25 @@ This is geared for VSCode and has all project/extension specific settings includ
 5. Launch configuration for VSCode, Install Chrome debugger extension and hit `F5` to start debugging immediately. If you have the [Browser Preview Extension](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) you can use that with F5 as well.
 6. Extension specific settings already added in `settings.json`.
 
-
 ## 4 Simple Steps
 
 1. Git clone this repo
 `git clone https://github.com/wapenshaw/react-typescript-eslint-prettier-vscode-boilerplate.git myProject`
 
-2. `code .` from inside the project folder or `Open Folder` in VSCode
+2. `npm install` or `yarn install` <- preffered
 
-3. `npm install` or `yarn install` <- preffered
+3. `npm start` or `yarn start`
 
-4. `npm start` or `yarn start`
+4. `code .` from inside the project folder or `Open Folder` in VSCode
 
 
+>## Wanna Bump before Build?
+
+>Get [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
+
+>Hit `ncu` to check for outdated packages, and if you are daring just do an `ncu -u` and then do your standard `yarn install` or `npm install`
+
+-----------------------
 
 ## Available Scripts
 
